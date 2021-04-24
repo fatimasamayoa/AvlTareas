@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\PROGRAM III\Tarea árboles avl\Tarea árboles avl\bin\Debug\netcoreapp3.1\Tarea árboles avl.exe
+C:\Users\HP\Desktop\PROGRAM III\Tarea árboles avl\Tarea árboles avl\bin\Debug\netcoreapp3.1\Tarea árboles avl.deps.json
+C:\Users\HP\Desktop\PROGRAM III\Tarea árboles avl\Tarea árboles avl\bin\Debug\netcoreapp3.1\Tarea árboles avl.runtimeconfig.json
+C:\Users\HP\Desktop\PROGRAM III\Tarea árboles avl\Tarea árboles avl\bin\Debug\netcoreapp3.1\Tarea árboles avl.runtimeconfig.dev.json
+C:\Users\HP\Desktop\PROGRAM III\Tarea árboles avl\Tarea árboles avl\bin\Debug\netcoreapp3.1\Tarea árboles avl.dll
+C:\Users\HP\Desktop\PROGRAM III\Tarea árboles avl\Tarea árboles avl\bin\Debug\netcoreapp3.1\Tarea árboles avl.pdb
+C:\Users\HP\Desktop\PROGRAM III\Tarea árboles avl\Tarea árboles avl\obj\Debug\netcoreapp3.1\Tarea árboles avl.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\PROGRAM III\Tarea árboles avl\Tarea árboles avl\obj\Debug\netcoreapp3.1\Tarea_árboles_avl.Form1.resources
+C:\Users\HP\Desktop\PROGRAM III\Tarea árboles avl\Tarea árboles avl\obj\Debug\netcoreapp3.1\Tarea árboles avl.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\PROGRAM III\Tarea árboles avl\Tarea árboles avl\obj\Debug\netcoreapp3.1\Tarea árboles avl.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\PROGRAM III\Tarea árboles avl\Tarea árboles avl\obj\Debug\netcoreapp3.1\Tarea árboles avl.AssemblyInfo.cs
+C:\Users\HP\Desktop\PROGRAM III\Tarea árboles avl\Tarea árboles avl\obj\Debug\netcoreapp3.1\Tarea árboles avl.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\PROGRAM III\Tarea árboles avl\Tarea árboles avl\obj\Debug\netcoreapp3.1\Tarea árboles avl.dll
+C:\Users\HP\Desktop\PROGRAM III\Tarea árboles avl\Tarea árboles avl\obj\Debug\netcoreapp3.1\Tarea árboles avl.pdb
+C:\Users\HP\Desktop\PROGRAM III\Tarea árboles avl\Tarea árboles avl\obj\Debug\netcoreapp3.1\Tarea árboles avl.genruntimeconfig.cache
